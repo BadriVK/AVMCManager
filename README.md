@@ -10,4 +10,4 @@ AVMCManager is model class for Multipeer Connectivity Framework that enable to c
 >ARC
 
 ## Author
-([@arpitVishwakarma](https://www.twitter.com/arpit_limodia))
+([@BadriVishwakarma](https://www.twitter.com/badrivk))
